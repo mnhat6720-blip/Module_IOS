@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
             title: "Lên Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @duyvinh.09 ✨",
+                    title: "Nhớ follow kênh tiktok @nhatminh25.01 ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
                     imageURL: "https://i.ibb.co/bj2Y3d0y/L-n-Gold-R-i-1.png"
                 }
@@ -70,7 +70,7 @@ if (ua.includes("Locket")) {
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
         settings_instagram_url: "https://www.instagram.com/dvinh.09/",
-        settings_tiktok_url: "https://tiktok.com/@duyvinh.09"
+        settings_tiktok_url: "https://www.tiktok.com/@nhatminh25_01"
     });
 
     // ============================================================
@@ -406,7 +406,7 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Decorative by Duy Vinh",
                 items: [
-                    { overlay_id: "caption:duyvinh09", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "duyvinh09", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:nhatminh25_01", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "nhatminh25_01", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
@@ -450,6 +450,7 @@ if (ua.includes("Locket")) {
                 section: "🎨 Gen Z & Xéo xắt 💅",
                 items: [
                     { overlay_id: "caption:feeling_cute", source: "remote", caption: { background: { colors: ["#F8BBD0", "#E91E63"] }, icon: { data: "🌷", type: "emoji" }, max_lines: 1, text: "Feeling Cute", localized_text: { en: "Feeling Cute", vn: "Cảm thấy dthw" }, text_color: "#FFFFFFE5", type: "static_content" } },
+                    { overlay_id: "caption:tai_nang_tre", source: "remote", caption: { background: { colors: ["#F8BBD0", "#E91E63"] }, icon: { data: "😎", type: "emoji" }, max_lines: 1, text: "Feeling Cute", localized_text: { en: "Feeling Cute", vn: "tài năng trẻ đẳng cấp" }, text_color: "#FFFFFFE5", type: "static_content" } },
                     { overlay_id: "caption:cutie_pie", source: "remote", caption: { background: { colors: ["#FFDEE9", "#FFB6C1", "#FF9AA2"] }, icon: { data: "🎀", type: "emoji" }, max_lines: 1, text: "Cutie Pie 🌸", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:hello_kitty", source: "remote", caption: { background: { colors: ["#FFD1DC", "#FFB7C5", "#FFC0CB"] }, icon: { data: "🌸", type: "emoji" }, max_lines: 1, text: "Hello Kitty 🐱", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:ngoan_xinh_iu", source: "remote", caption: { background: { colors: ["#F3C1D4", "#F8DDE5", "#E8CFF0"] }, icon: { data: "💗", type: "emoji" }, max_lines: 1, text: "ngoan xinh iu của ai đây", text_color: "#71465D", type: "static_content" } },
